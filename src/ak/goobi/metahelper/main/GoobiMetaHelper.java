@@ -19,7 +19,7 @@ import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
 import ak.goobi.oaihelper.main.GoobiOaiHelper;
-import betullam.xmlhelper.XmlParser;
+import ak.xmlhelper.XmlParser;
 
 /**
  * Helps to process meta.xml and meta_anchor.xml files from Goobi.
